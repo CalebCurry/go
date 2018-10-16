@@ -5,5 +5,5 @@ import (
 	"github.com/calebcurry/stringutil"
 )
 func main() {
-	fmt.Printf(stringutil.Reverse("\ndlrow olleh"))
+	fmt.Printf(stringutil.Reverse("\ndlrow ollehhhhhhh"))
 }
